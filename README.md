@@ -14,14 +14,14 @@ Gra polega na układaniu opadających bloczków w taki sposób, by tworzyły one
 SFML 2.5.1
 
 ## Autorzy
-- tekstur - Ulukai
-licencja CC-BY 3.0
+- tekstur - Ulukai,
+licencja CC-BY 3.0,
 [link do strony](https://opengameart.org/content/ulukais-space-skyboxes)
 
-- dźwięków - Little Robot Sound Factory
-licencja CC-BY 3.0
+- dźwięków - Little Robot Sound Factory,
+licencja CC-BY 3.0,
 [link do strony](https://opengameart.org/content/fantasy-sound-effects-library)
 
-- czcionki - Sudocolon
-licencja CC0
+- czcionki - Sudocolon,
+licencja CC0,
 [link do strony](https://opengameart.org/content/yanderefont)
