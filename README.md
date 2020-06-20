@@ -1,7 +1,4 @@
 # Space TETRIS
-======
-
-## Informacje dotyczące projektu
 Gra TETRIS napisana w języku C++ z wykorzystaniem biblioteki SFML.
 
 ## Zasady gry
@@ -17,19 +14,14 @@ Gra polega na układaniu opadających bloczków w taki sposób, by tworzyły one
 SFML 2.5.1
 
 ## Autorzy
-*tekstur - Ulukai
-- licencja CC-BY 3.0
-- [link do strony](https://opengameart.org/content/ulukais-space-skyboxes)
-*dźwięków - Little Robot Sound Factory
-- licencja CC-BY 3.0
-- [link do strony](https://opengameart.org/content/fantasy-sound-effects-library)
-*czcionki - Sudocolon
-- licencja CC0
-- [link do strony](https://opengameart.org/content/yanderefont)
+- tekstur - Ulukai
+licencja CC-BY 3.0
+[link do strony](https://opengameart.org/content/ulukais-space-skyboxes)
 
+- dźwięków - Little Robot Sound Factory
+licencja CC-BY 3.0
+[link do strony](https://opengameart.org/content/fantasy-sound-effects-library)
 
-
-
-
--opisujecie po krótce o czym jest projekt (można wykorzystać treść, którą wklejaliście kiedyś 
- na Moodle, można ją oczywiście zaktualizować wedle potrzeb)
+- czcionki - Sudocolon
+licencja CC0
+[link do strony](https://opengameart.org/content/yanderefont)
